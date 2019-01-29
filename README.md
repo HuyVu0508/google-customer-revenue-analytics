@@ -17,6 +17,7 @@ Including following steps:
 ### Generating heatmap of the session "Visiting Time" (in terms of month and hour) and "Transaction Revenue":
 We find that there are a great correlation in the visit time and the revenue in terms of hour. Most of the revenue are created in the afternoon to midnight.This is quite easy to understand, since nobody visit GStore in the middle of the night (1am - 5am), and also, in the morning since they have to go to work.
 In terms of month, we find there are a great demand in December, which must be because of Christmas. Indeed, at this time of the year, people still buy from GStore up to 2-3am in the morning.
+
 ![Pic1](../master/illustrations/heatmap.png)
 
 ### Data clustering under variety of categories:
