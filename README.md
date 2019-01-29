@@ -46,7 +46,7 @@ The features chosen are:
 
 The results are shown in the iPython Notebook report file.
 
-## Permutation test 
+## Permutation tests 
 We then conducted permutation test to investigate the contribution of each feature to the model's accuracy. We conduct this experiment to analyze the features before choooing out the above-mentioned set of features for the optimized model.
 
 <p align="center">
