@@ -40,10 +40,8 @@ For countries in Asia, such as Vietnam (my country), we do care allot about this
 Building model for our regressor. The technique used is LightGBM. With tuned parameters. 
 The features chosen are: 
 
-*['visitNumber','totals.pageviews','visitNumber','totals.hits', 'visit_hour']*
-
 <p align="center">
-  ['visitNumber','totals.pageviews','visitNumber','totals.hits', 'visit_hour']
+  <i> ['visitNumber','totals.pageviews','visitNumber','totals.hits', 'visit_hour'] </i>
 </p>
 
 The results are shown in the iPython Notebook report file.
