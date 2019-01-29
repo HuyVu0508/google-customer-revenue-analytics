@@ -37,12 +37,14 @@ For countries in Asia, such as Vietnam (my country), we do care allot about this
 ## Building model for revenue prediction
 Building model for our regressor. The technique used is LightGBM. With tuned parameters. 
 The features chosen are: 
+
 *['visitNumber','totals.pageviews','visitNumber','totals.hits', 'visit_hour']*
+
 The results are shown in the iPython Notebook report file.
 
 ## Permutation test 
 We then conducted permutation test to investigate the contribution of each feature to the model's accuracy. We conduct this experiment to analyze the features before choooing out the above-mentioned set of features for the optimized model.
-![Pic3](../master/illustrations/All permutation test.jpg)
+![Pic3](../master/illustrations/All_permutation_test.jpg)
 
 
 
