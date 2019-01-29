@@ -19,6 +19,9 @@ We find that there are a great correlation in the visit time and the revenue in 
 In terms of month, we find there are a great demand in December, which must be because of Christmas. Indeed, at this time of the year, people still buy from GStore up to 2-3am in the morning.
 
 ![Pic1](../master/illustrations/heatmap.png)
+<p align="center">
+  <img  src="../master/illustrations/heatmap.png">
+</p>
 
 ### Data clustering under variety of categories:
 We cluster data under many category (browser, device category, OS system,...) to see how these information affect the buying decision of customers.
