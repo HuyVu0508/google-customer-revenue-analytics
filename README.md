@@ -29,10 +29,10 @@ The below figure illustrates data clustering by Page Views.
 
 ## Extending dataset
 We look for outside dataset to see if there is any extra insight into our problem. For extending dataset, we use two dataset that we think might affect the customer's behaviors in GStore, they are:
-### The stock market performance of GStore:
+- The stock market performance of GStore:
 A company's stock price reflects its performance as well as opinions of customers/investors about it and therefore, might reflect their intention to buy products from the company. For example, if the new released product is a good product, having many good review from critics and journalists, then the price of the stock will rise, and customers also would like to buy new products, too. In contrast, if there is something wrong with the new product, the stock price will drop and customers would not like to buy it. For example, when the Samsung Galaxy Note 7 is announced to be very dangerous, the Samsung stock price decrease drastically, the customers also postponed their decision to buy that product.
  
-### The price of USD overtime:
+- The price of USD overtime:
 For countries in Asia, such as Vietnam (my country), we do care allot about this exhange rates, since it greatly affects the price of the product. Indeed, many of the products on GStore are sold in USD, and we then multiply them with the exchange rate (USD->VND) to have the amount of VND we have to pay. Many times, if the USD is strong, the exchange rate will be high, and therefore we have to pay more. Many times we consider buying or not because of this. 
 
 
