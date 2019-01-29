@@ -42,6 +42,10 @@ The features chosen are:
 
 *['visitNumber','totals.pageviews','visitNumber','totals.hits', 'visit_hour']*
 
+<p align="center">
+  ['visitNumber','totals.pageviews','visitNumber','totals.hits', 'visit_hour']
+</p>
+
 The results are shown in the iPython Notebook report file.
 
 ## Permutation test 
