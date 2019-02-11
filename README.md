@@ -4,7 +4,7 @@
 
 ## Introduction
 This project will investigate data integration and model building in IPython. It is based on the ![Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction) Kaggle challenge, revolving around predicting how much the GStore customer will spend based on observed past data of customer's spending.
-
+(Please check the report file for detailed analysis.)
 
 ## Preprocessing data
 Including following steps:
