@@ -28,8 +28,8 @@ The below figure illustrates data clustering by Page Views. We can see that, ave
 ![Pic2](../master/illustrations/behaviors.png)
 
 ## Extending dataset
-We look for outside dataset to see if there is any extra insight into our problem. For extending dataset, we use two datasets that we think might affect the customer's behaviors in GStore, they are:
-- The stock market performance of GStore:
+We look for outside dataset to see if there is any extra insight into our problem. For extending dataset, we use two datasets that we think might affect the customer's behaviors in G-Store, they are:
+- The stock market performance of G-Store:
 A company's stock price reflects its performance as well as opinions of customers/investors about it and therefore, might reflect their intention to buy products from the company. For example, if the new released product is a good product, having many good review from critics and journalists, then the price of the stock will rise, and customers also would like to buy new products, too. In contrast, if there is something wrong with the new product, the stock price will drop and customers would not like to buy it. For example, when the Samsung Galaxy Note 7 is announced to be very dangerous, the Samsung stock price decrease drastically, the customers also postponed their decision to buy that product.
  
 - The price of USD overtime:
